@@ -22,11 +22,6 @@ $ git remote add origin git地址
 1>  创建代码，开始开发
 $ touch main.c
 $ open main.c
-111wdscbsdvc s xz
-sdfsdfsd
-sdvsdf
-sdgfsdgs
-sgsdgsdgdsfg
 2>  将代码添加到代码库
 # 查看当前代码库状态
 $ git status
