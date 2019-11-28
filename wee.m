@@ -10,7 +10,9 @@ $ git config --global user.name manager
 $ git config --global user.email manager@gmail.com
 
 * 以上两个命令会将用户信息保存在用户目录下的 .gitconfig 文件中
-111111111111111111111111111111
+
+去大师傅大V按的是地方电费是尴尬八十八大女大三
+
 4>  查看当前所有配置
 $ git config -l
 
@@ -35,7 +37,7 @@ $ git status
 $ git add main.c
 # 将修改提交到代码库
 $ git commit -m "添加了main.c"
-
+3333333333333333333333333333333333333
 提示：
 *   在此一定要使用 -m 参数指定修改的备注信息
 *   否则会进入 vim 编辑器，如果对vim不熟悉，会是很糟糕的事情
