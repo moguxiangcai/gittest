@@ -10,9 +10,6 @@ $ git config --global user.name manager
 $ git config --global user.email manager@gmail.com
 
 * 以上两个命令会将用户信息保存在用户目录下的 .gitconfig 文件中
-
-去大师傅大V按的是地方电费是尴尬八十八大女大三
-
 4>  查看当前所有配置
 $ git config -l
 
